@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AakList (Anti-Adblock Killer)
-! Author: Reek | https://github.com/FunkyPotao/roblox-bad-games-blocklist-for-ublock/
+! Author: Funky | https://github.com/FunkyPotao/roblox-bad-games-blocklist-for-ublock/
 ! Version: 10.0
 ! License: https://unlicense.org/
 
