@@ -3,7 +3,7 @@
 ! Author: Funky | https://github.com/FunkyPotao/roblox-bad-games-blocklist-for-ublock/
 ! Version: 10.0
 ! License: https://unlicense.org/
-
+! Expires: 1 days
 
 
 ! Oct 22, 2025 https://www.roblox.com
