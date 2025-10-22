@@ -1,3 +1,13 @@
+[Adblock Plus 2.0]
+! Title: AakList (Anti-Adblock Killer)
+! Author: Reek | https://github.com/FunkyPotao/roblox-bad-games-blocklist-for-ublock/
+! Version: 10.0
+! License: https://unlicense.org/
+
+
+
+! Oct 22, 2025 https://www.roblox.com
+
 www.roblox.com###\37 709344486
 www.roblox.com###\37 436755782
 www.roblox.com###\38 842956505
@@ -24,7 +34,6 @@ www.roblox.com###\36 369934270
 www.roblox.com###\37 658839393
 www.roblox.com###\36 701277882
 www.roblox.com###\35 361032378
-! Oct 22, 2025 https://www.roblox.com
 www.roblox.com###\35 750914919
 www.roblox.com###\33 990106548
 www.roblox.com###\37 703614594
