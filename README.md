@@ -5,4 +5,4 @@ repo name self explanatory
 
 subscribe here
 
-[Subscribe!!](abp:subscribe?location=https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt&title=AakList (GET-OUT ROBLOX SLOP))
+[Subscribe!!](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/FunkyPotao/roblox-bad-games-blocklist-for-ublock/refs/heads/main/main.txt)
