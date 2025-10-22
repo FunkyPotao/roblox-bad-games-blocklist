@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: AakList (Anti-Adblock Killer)
+! Title: GETOUT ROBLOX SLOP
 ! Author: Funky | https://github.com/FunkyPotao/roblox-bad-games-blocklist-for-ublock/
 ! Version: 10.0
 ! License: https://unlicense.org/
